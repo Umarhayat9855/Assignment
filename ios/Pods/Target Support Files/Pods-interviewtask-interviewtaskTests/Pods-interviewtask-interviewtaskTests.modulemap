@@ -1,0 +1,6 @@
+module Pods_interviewtask_interviewtaskTests {
+  umbrella header "Pods-interviewtask-interviewtaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
